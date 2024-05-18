@@ -1,1 +1,1 @@
-This is for SE Project Team 14
+This is a movie Booking Management Application
